@@ -1,5 +1,5 @@
 # Pterodactyl Panel Migration: A Complete Guide
-Migrating a Pterodactyl panel from one machine to another can be a daunting task, but with the right steps, it becomes a smooth and straightforward process. This guide will walk you through migrating both the Pterodactyl panel and Wings to a new server. We’ll cover how to back up, transfer, and configure everything to ensure a successful migration.You can also Watch the Video on Here. [YouTube](https://www.youtube.com/watch?v=7HYf7b8vagY)
+Migrating a Pterodactyl panel from one machine to another can be a daunting task, but with the right steps, it becomes a smooth and straightforward process. This guide will walk you through migrating both the Pterodactyl panel and Wings to a new server. We’ll cover how to back up, transfer, and configure everything to ensure a successful migration.
 
 By following this step-by-step guide, you'll have your panel up and running on your new server in no time.
 
